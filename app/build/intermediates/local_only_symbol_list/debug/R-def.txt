@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color dark_red
+color white
+drawable baseline_movie_creation_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable rounded_border
+id button
+id editQuery
+id fragmentContainerView
+id frameLayout
+id list
+id movie_image
+id movie_image_detail
+id movie_title
+id movie_title_detail
+id movie_year
+id movie_year_detail
+layout activity_main
+layout fragment_first
+layout fragment_second
+layout list_item_movie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string search
+style Base.Theme.MoviesDbApi
+style Theme.MoviesDbApi
+xml backup_rules
+xml data_extraction_rules
